@@ -1,4 +1,5 @@
-# BeepBox
+# SimiBox
+idk what am i doing. read the original beepbox description.
 
 BeepBox is an online tool for sketching and sharing instrumental melodies.
 Try it out [here](https://www.beepbox.co)!
