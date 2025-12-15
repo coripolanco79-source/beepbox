@@ -1,24 +1,23 @@
-# BeepBox
+# SimiBox
 
-BeepBox is an online tool for sketching and sharing instrumental melodies.
-Try it out [here](https://www.beepbox.co)!
+SimiBox is an online tool for sketching and sharing instrumental melodies.
 
 All song data is packaged into the URL at the top of your browser. When you make
 changes to the song, the URL is updated to reflect your changes. When you are
 satisfied with your song, just copy and paste the URL to save and share your
 song!
 
-BeepBox is a passion project, and will always be free to use. If you find it
+SimiBox is a passion project, and will always be free to use. If you find it
 valuable and have the means, any gratuity via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)
 would be appreciated!
 
-BeepBox is developed by [John Nesky](https://johnnesky.com/). This source code
+BeepBox is only developed by [John Nesky](https://johnnesky.com/). This source code
 is available under the [MIT license](LICENSE.md).
 
 ## Synthesizer library
 
-You can use BeepBox's synthesizer to play music in your own web app! See
+You can use SimiBox's synthesizer to play music in your own web app! See
 [the npm package](https://www.npmjs.com/package/beepbox) for more details.
 
 ## Compiling
@@ -39,7 +38,7 @@ npm run build
 
 The code is divided into several folders.
 
-The [synth/](synth) folder has just the code you need to be able to play BeepBox
+The [synth/](synth) folder has just the code you need to be able to play SimiBox!
 songs out loud, and you could use this code in your own projects, like a web
 game. After compiling the synth code, open website/synth_example.html to see a
 demo using it. To rebuild just the synth code, run:
