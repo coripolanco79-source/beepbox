@@ -1,12 +1,12 @@
 {
-	"name": "beepbox",
-	"version": "3.0.13",
-	"description": "An online tool for sketching and sharing instrumental melodies.",
-	"author": "John Nesky",
+	"name": "compiliabox",
+	"version": "1.0.0",
+	"description": "CompiliaBox - A BeepBox mod with an online tool for sketching and sharing instrumental melodies.",
+	"author": "Coripolanco79",
 	"license": "MIT",
 	"type": "module",
 	"private": false,
-	"homepage": "https://www.beepbox.co",
+	"homepage": "https://www.compiliabox.co",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/coripolanco79-source/beepbox.git"
@@ -20,6 +20,7 @@
 	"browser": "dist/esm/synth/index.js",
 	"types": "dist/esm/synth/index.d.ts",
 	"keywords": [
+		"compiliabox",
 		"beepbox",
 		"music",
 		"composition",
